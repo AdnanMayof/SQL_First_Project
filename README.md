@@ -13,7 +13,7 @@ Analyze sales data to identify trends, sales performance over time, and customer
 
 # Data Collection:
 - Source sales data from an open dataset or a simulated dataset containing information like transaction ID, date, customer ID, product ID, quantity, and sales amount.
-- Link to Kaggle Dataset: https://www.kaggle.com/heesoo37/120-y...
+- Link to Kaggle Dataset: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 # Data Cleaning and Preparation (Excel/SQL):
 - Clean and organize data using Excel (for instance, using functions like VLOOKUP, pivot tables) or SQL queries.
